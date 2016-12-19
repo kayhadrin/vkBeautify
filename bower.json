@@ -21,6 +21,9 @@
     "css",
     "sql"
   ],
+  "main": [
+    "vkbeautify.js"
+  ], 
   "dependencies": {},
   "ignore": [
     ".bowerrc",
